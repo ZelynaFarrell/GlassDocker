@@ -47,7 +47,8 @@ struct ContentView: View {
                                     Image("phone")
                                         .resizable()
                                         .scaledToFill()
-                                        .frame(width: 35, height: 55)
+                                        .frame(width: 35, height: 77)
+                                        .padding(.top, 3)
                                     
                                     iconShadow
                                 }
@@ -59,7 +60,7 @@ struct ContentView: View {
                                     Image("safari")
                                         .resizable()
                                         .scaledToFill()
-                                        .frame(width: 35, height: 55)
+                                        .frame(width: 35, height: 65)
                                     
                                     iconShadow
                                 }
@@ -71,7 +72,7 @@ struct ContentView: View {
                                     Image("mail")
                                         .resizable()
                                         .scaledToFill()
-                                        .frame(width: 35, height: 56)
+                                        .frame(width: 35, height: 82)
                                     
                                     iconShadow
                                 }
@@ -83,8 +84,8 @@ struct ContentView: View {
                                     Image("music")
                                         .resizable()
                                         .scaledToFill()
-                                        .frame(width: 35, height: 50)
-                                        .padding(.top, 2)
+                                        .frame(width: 35, height: 71)
+                                    
                                     
                                     iconShadow
                                 }
