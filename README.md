@@ -18,7 +18,7 @@
 
 | Glass 3D Dock |
 |:---------------:|
-|<img width="400" src="https://github.com/ZelynaFarrell/GlassDocker/assets/117409535/f9ffb2d7-6299-48ba-a362-8eb24197aa2f">|
+|<img width="400" src="https://github.com/ZelynaFarrell/GlassDocker/assets/117409535/8a4eee7d-dbcb-47b1-a7c3-9c95c4dae1da">|
 
 
 <br>
