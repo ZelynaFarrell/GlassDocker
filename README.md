@@ -9,7 +9,7 @@
 ## **Features**
 - <kbd style="background-color: #f0f0f0">Glassmorphic Design:</kbd> Utilizes a glassmorphic design, incorporating transparency and blur effects.
 - <kbd style="background-color: #f0f0f0">Button Dock Bar:</kbd> Displays a horizontal button bar with icons.
-- <kbd style="background-color: #f0f0f0">Custom Buttons:</kbd> Uses Apple-designed buttons with subtle shadows.
+- <kbd style="background-color: #f0f0f0">Custom 3D Buttons:</kbd> Uses Apple-designed 3D buttons with subtle shadows.
 - <kbd style="background-color: #f0f0f0">Background Image:</kbd> Features a background image with a blurred overlay.
 
 <br>
